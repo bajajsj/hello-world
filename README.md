@@ -1,2 +1,3 @@
 # hello-world
-First test project
+
+Just created a test project on github!
